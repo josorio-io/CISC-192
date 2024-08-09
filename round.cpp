@@ -37,7 +37,7 @@ double roundToThousandths(double number) {
 }
 
 /*
-Output:
+Output
 
 Enter a number: 10.1245
 Original number: 10.1245
