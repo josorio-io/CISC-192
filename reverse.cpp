@@ -18,3 +18,10 @@ int reverseDigits(int number) {
     }
     return reversedNumber;
 }
+
+/*
+Output
+
+Enter a number: 7631
+The number with its digits reversed is: 1367
+*/
